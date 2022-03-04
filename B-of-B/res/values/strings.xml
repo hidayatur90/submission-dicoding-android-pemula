@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BeautyOfBondowoso</string>
+    <string name="my_name">Muhammad Hidayatur Rahman</string>
+    <string name="my_email">hidabaik@gmail.com</string>
+    <string name="destination_name">Destination Name</string>
+    <string name="destination_detail">Detail</string>
+    <string name="about_me">About Me</string>
+    <string name="location">Lokasi :</string>
+    <string name="destination_location">Desa Kalianyar, Kecamatan Ijen, Kabupaten Bondowoso, Jawa Timur</string>
+    <string name="htm">HTM : </string>
+    <string name="destination_htm">Rp.5.000 – 150.000 per orang </string>
+    <string name="rute_title">Rute Jalan dari kota Bondowoso</string>
+    <string name="rute">Rute wisata ini sebenarnya terbagi menjadi beberapa rute. Untuk lebih jelasnya dapat langsung buka Google Maps dibawah slurr!! </string>
+    <string name="destination_rute">Open Maps</string>
+    <string name="hidayatur90">© hidayatur90</string>
+</resources>
